@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ad436e241ab0e9945a997e0b458be477
+timeCreated: 1507462306
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 210 Manbalchungchun
+  fontNames:
+  - 210 Manbalchungchun
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
