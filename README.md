@@ -1,4 +1,4 @@
-# Commputer Security for Cat-Raising Game
+# Computer Security for Cat-Raising Game
 
 ## What is Cat-Raising Game?
 - This is the graduation project to get a bachelor's degree.
