@@ -7,7 +7,6 @@
 
 ## Description
 Serveral security techniques are applied to this project.
-===
 
 ### 1) Authentication of user’s action
 - It is not recognized for a certain period of time in Microsoft Kinect sensor, lock the program automatically and judge whether the current incoming action is similar to the action at initial stage necessary to measure the user’s body.
